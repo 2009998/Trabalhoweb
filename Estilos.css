@@ -1,0 +1,64 @@
+body {
+    color: rgb(61, 70, 70);
+    font-family: Arial;
+    background-image: url('./imagens/PlanoDeFundo2.jpg') 
+}
+
+h1 {
+    color: rgb(11, 12, 12);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(51, 52, 54) ;
+    text-align: left;
+}
+
+h5 {
+    text-align: center;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 12pt;
+    text-align: justify;
+    background-color: rgb(92, 92, 92);
+    padding: 30px;
+    border-radius: 0.8rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(218, 218, 218);
+    background-color: rgb(48, 47, 47);
+    padding: 3px;
+    font-size: 10pt;
+    border-radius: 0.4rem;
+}
+
+a:hover {
+    color: rgb(57, 57, 58);
+    background-color:rgb(254, 254, 255);
+    font-size: 11pt;
+}
+
+img{
+    height: 190px;
+    width: 210px;
+}
+
+div {
+    text-align: left;
+}
+
+nav{
+    text-align: center;
+}
+
+.ancora{
+    opacity: 0.0;
+}
+
+@media (max-width: 500px){
+    
+}
